@@ -1,0 +1,20 @@
+body{
+    background-color:yellow;
+    color:red;
+}
+.heading{
+    font-size: 20px;
+    width: 80%;
+}
+.name_of_people{
+    color:red;
+}
+#camera{
+    border: 2px dashed red;
+    width: 350px;
+    height: 300px;
+
+}
+#result_people_name,#result_people_accuracy{
+    color: red;
+}
